@@ -1,0 +1,13 @@
+french
+Essais et erreurs rapides 
+
+german
+Schneller Versuch und Irrtum
+
+portuguese
+Tentativa e erro rápidos
+
+spanish
+Ensayo y error rápidos
+
+latin1 don't fully support greek language
